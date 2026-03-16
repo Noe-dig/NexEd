@@ -1,0 +1,58 @@
+html {
+    font-size: 62.5%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+th, td {
+    font-size: 1.5rem;
+    height: 40px;
+    width: 45px;
+}
+
+th {
+    background-color: lightgray;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+td:hover {
+    background-color: lawngreen;
+    cursor: pointer;
+}
+
+td > a {
+    display: block;
+}
+
+a:link, a:visited{
+    color: black;
+    text-decoration: none;
+}
+
+.proton-count {
+    font-size: 1rem;
+}
+
+.orange {
+    background-color: coral;
+}
+
+.orange > a {
+    color: green;
+}
+
+.purple {
+    background-color: plum;
+}
+
+.blue {
+    background-color: cornflowerblue;
+}
+
+.yellow {
+    background-color: khaki;
+}
