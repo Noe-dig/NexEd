@@ -1,0 +1,34 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: purple;
+}
+
+.links {
+    list-style-type: none;
+    display: inline-flex;
+}
+
+.over-mij-div {
+    background-color: gray;
+}
+
+.highlight {
+    color: white;
+}
+
+ul {
+    color: blue;
+}
+
+    li {
+        color: slategray;
+        font-size: large;
+    }
+
+img {
+    width: 20%;
+    height: auto;
+}

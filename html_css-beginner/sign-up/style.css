@@ -1,0 +1,13 @@
+input {
+    min-width: 200px;
+    border: grey solid 3px;
+    border-radius: 6px;
+}
+
+#textarea {
+    border: 3px solid red;
+}
+
+#textarea:focus {
+    border: green;
+}
